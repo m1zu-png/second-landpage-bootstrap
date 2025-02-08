@@ -3,5 +3,5 @@
 
 body {
     /* usando a variável global no bg. */
-    background-color: var(--variable-example);
+    /* background-color: var(--variable-example); */
 }
