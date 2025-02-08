@@ -5,3 +5,22 @@ body {
     /* usando a variável global no bg. */
     /* background-color: var(--variable-example); */
 }
+
+.hero {
+    background: url('../assets/images/Rawr.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-verde{
+    background-color: var(--variable-example);
+}
+
+.bg-verde{
+    background-color: var(--variable-example);
+}
