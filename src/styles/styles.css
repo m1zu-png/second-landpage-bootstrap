@@ -1,0 +1,7 @@
+/* para importar global/fontes. */
+@import url('./global.css');
+
+body {
+    /* usando a variável global no bg. */
+    background-color: var(--variable-example);
+}

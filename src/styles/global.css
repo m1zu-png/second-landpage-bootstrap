@@ -1,0 +1,19 @@
+/* set de variáveis.
+o root é usado para criar
+uma variável para algo/estilo que
+se repita.*/
+
+:root {
+    --variable-example: #d5e8f4;
+}
+
+/* reset css.
+o reset é usado para resetar/modificar
+um padrão de fábrica.*/
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
